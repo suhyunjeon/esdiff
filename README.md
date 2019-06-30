@@ -8,7 +8,7 @@ The `esdiff` tool iterates over two indices in Elasticsearch 5.x or 6.x or 7.x
 You need Go 1.11 or later to compile. Install with:
 
 ```
-$ go install github.com/suhyunjeon/esdiff
+$ go install github.com/olivere/esdiff
 ```
 
 ## Example usage
